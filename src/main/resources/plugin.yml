@@ -1,0 +1,6 @@
+name: EterHome
+version: '${version}'
+
+main: fr.etercraft.eterHome.Main
+api-version: '26.3'
+load: POSTWORLD
